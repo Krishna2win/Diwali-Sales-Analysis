@@ -46,7 +46,7 @@ The project utilizes the following datasets:
 
 ### Usage
 
-1. Place your dataset files in the `data/` directory.
+1. Place your datasets files in the `data/` directory.
 
 2. Run the analysis script:
     ```bash
@@ -73,5 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, please reach out to [shrikrishnavyas111@gmail.com](mailto:shrikrishnavyas111@gmail.com).
+
 
 
